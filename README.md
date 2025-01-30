@@ -25,7 +25,7 @@ src/app
 │ └── places.service.ts # logical for places operations
 │
 ├── shared/ # responsible for common components
-│ ├── modal/ # reusable AOC modal to provide feedback about server errors
+│ ├── modal/ # reusable HOC modal to provide feedback about server errors
 │ └── error.service.ts # basic logical for errors
 │
 ├── app.component.html # Template that orchestrates components
